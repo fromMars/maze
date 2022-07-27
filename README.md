@@ -1,2 +1,2 @@
 # maze
-a maze game
+a maze game running on Windows
